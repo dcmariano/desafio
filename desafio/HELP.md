@@ -17,7 +17,7 @@ This application provides a REST API for managing tasks and task lists. It allow
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/dcmariano/desafio/desafio.git
+   git clone https://github.com/dcmariano/desafio.git
    cd desafio
    ```
 
